@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.kakao.sdk:newtone-sandbox:6.0.0-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d91463c60013c46177374b6758bed45c/jetified-newtone-sandbox-6.0.0-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d91463c60013c46177374b6758bed45c/jetified-newtone-sandbox-6.0.0-SNAPSHOT/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kakao.sdk/newtone-sandbox/6.0.0-SNAPSHOT/d1c4ceac8ed63cc3297087825eeeacab36bf5a4a/newtone-sandbox-6.0.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kakao.sdk/newtone-sandbox/6.0.0-SNAPSHOT/233b69617d3ed719876fc93d03828bb924be0276/newtone-sandbox-6.0.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
