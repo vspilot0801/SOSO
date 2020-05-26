@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.kakao.sdk.newtone.sample.test">
 
-    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="23" />
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="29" />
 
     <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
